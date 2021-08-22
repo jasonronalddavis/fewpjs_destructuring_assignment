@@ -27,15 +27,15 @@ const nestedMuppet = {
 
 
 
-const [moo, neigh, baa, oink, cluck] = farmAnimals.split(" ")
+const [moo, neigh, baa, oink, cluck] = farmAnimals.split(" ");
 
 const [bessie, , dolly, babe, little] = farmAnimals.split(" ");
 
-const [black_and_white, , black, pink, ] = farmAnimals.split(" ")
+const [blackAndWhite, , black, pink, ] = farmAnimals.split(" ");
 
-const [red, orange, yellow, green, blue, indigo, violet] = colors 
+const [red, orange, yellow, green, blue, indigo, violet] = colors ;
 
-const [ , , , , , indg, ] = colors
+const [ , , , , , indg, ] = colors;
 
 const [r, o, y, g, b, , v] = colors; 
 
