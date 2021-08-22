@@ -41,8 +41,6 @@ const [red, orange, yellow, green, blue, indigo, violet] = colors
     })
 
 
-  let colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
-
 
 colors['ingigo'] = colors['indg'] 
 
